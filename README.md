@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+I am a Web Developer from Hyderabad, Sindh Pakistan
 
-<!--
-**AqibAliMughal/AqibAliMughal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Completed an internship of 4 months |FEB'23-MAY'23| from Hidaya Institute, Jamshoro.
+- 💻 Developed a web-based application The-Thoughts using OOP PHP, aims to share information || May-2023.
+- 🔭 I’m currently working on CORE PHP.
+- 👩‍💻 Stack I work on HTML 5, CSS 3, Bootstrap, PHP, JavaScript, Ajax.
+- 🌱 Enhancing my skills in PHP by learning its framework Laravel.
+- 👯 I’m looking forward for CORE PHP developer position.
+- 🎓 BS-Software Engineering Graduate From University of Sindh, Jamshoro. || 2021 
+- ✉ Get in touch: ahadaqib349@gmail.com
