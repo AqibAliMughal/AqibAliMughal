@@ -1,7 +1,8 @@
 ### Hi 👋 
 I am a Back-End Developer from Pakistan 
 
-- 🏢 Junior PHP Developer at Salesflo. || AUG'23 - Present
+- 👨‍💼 Laravel/PHP Developer at Digitechtic || March'24-Present
+- 🏢 Junior PHP Developer at Salesflo. || AUG'23 - Feb'24
 - 👨‍🎓 Completed an internship of 4 months at Hidaya Institute, Jamshoro. || FEB'23-MAY'23 
 - 💻 Developed a web-based application The-Thoughts using OOP PHP, which aims to share information || May-2023.
 - 🔭 I’m currently working on Laravel / PHP.
