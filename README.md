@@ -24,7 +24,8 @@ I’m actively enhancing my skills in **PHP** and its **Laravel** framework, whi
 
 ## 📬 Get in touch
 + Feel free to connect with me via email: ahadaqib349@gmail.com
-<br>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aqibalimughal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aqib_Alii) 
 
