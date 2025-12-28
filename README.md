@@ -2,22 +2,22 @@
 I’m a passionate **Back-End Developer** from Pakistan with a focus on **Laravel** and **PHP** development.<br>Currently, I’m working as a **Software Engineer** at **Salesflo**, but I’m always learning and exploring new tech.<br>
 
 ## 💫 Experience:
-+ Software Engineer at Salesflo
-  March 2024 - Present
-  Currently working on live projects and delivering solutions for multinational clients, including **ShanFoods** and **Valvoline**.
-  Involved in backend development using PHP and Laravel.<br> Other than this, at Salesflo, I simultaneously collaborate on 2 more products.
++ **Software Engineer at Salesflo** <br>
+  March 2024 - Present<br>
+  Currently working on live projects and delivering solutions for multinational clients, including **ShanFoods** and **Valvoline** 🏢.
+  Involved in backend development using PHP and Laravel.<br> Other than this, at Salesflo, I simultaneously collaborate🧑‍💻on 2 more products.
 
-+ Junior PHP Developer at AlphaTech
-  August 2023 - February 2024
++ **Junior PHP Developer at AlphaTech**<br>
+  August 2023 - February 2024<br>
   Worked on building web applications with PHP/Laravel, and integrated payment gateways.
 
-+ Jr. PHP Developer at Hidaya Institute, Jamshoro
-  February 2023 - May 2023
++ **Jr. PHP Developer at Hidaya Institute, Jamshoro**<br>
+  February 2023 - May 2023<br>
   Gained hands-on experience in web development and system design.
 
 ## 🌱 Current Learning
 
-I’m actively enhancing my skills in **PHP** and its **Laravel** framework, while diving into **Cloud Data Engineering** at **SMIT Karachi**. I’m working with **Python** (using **Pandas**, **Numpy**, **ETL pipelines**, and **Snowflake**) to manage and analyze large datasets.
+I’m actively enhancing my skills in **PHP** and its **Laravel** framework, while diving into **Cloud Data Engineering** at **SMIT Karachi**. I’m working with 🐍 **Python** (using **Pandas**, **Numpy**, **ETL pipelines**, and **Snowflake**) to manage and analyze large datasets.
 
 ## 🎓 Education
  + BS in Software Engineering from the University of Sindh, Jamshoro (2021)
